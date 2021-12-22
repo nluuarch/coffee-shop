@@ -8,3 +8,5 @@ gem "pry"
 gem "require_all"
 
 gem "faker", "~> 2.9"
+
+gem "rake"
